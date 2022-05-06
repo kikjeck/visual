@@ -1,6 +1,0 @@
-pandas
-seaborn
-matplotlib.pyplot
-plotly.express
-plotly
-dash
